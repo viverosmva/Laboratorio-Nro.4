@@ -40,7 +40,7 @@ https://www.tinkercad.com/things/5HdrLNMMkhx-mighty-trug/editel?returnTo=https%3
 
 # Imagen circuito 
 
-
+https://github.com/viverosmva/Laboratorio-Nro.4/blob/main/Mighty%20Trug.png?raw=true
 
 # Código fuente
 #include <LiquidCrystal.h>
