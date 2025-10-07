@@ -1,5 +1,5 @@
 # Laboratorio-Nro.4
-Programación de rutinas en Arduino
+Programación de Arduino
 
 Integrante: Michael Esteban Viveros, 
             Daniel Esteban Moran,
