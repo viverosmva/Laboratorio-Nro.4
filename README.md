@@ -1,8 +1,8 @@
 # Laboratorio-Nro.4
 Programación de rutinas en Arduino
 
-Integrante: Michael Esteban Viveros 
-            Daniel Esteban Moran
+Integrante: Michael Esteban Viveros, 
+            Daniel Esteban Moran,
             Jairo Daniel Cabrera
             
 # Descripción general
